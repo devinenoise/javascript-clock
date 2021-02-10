@@ -1,1 +1,1 @@
-# javascript-clock
+A clock made with Javascript.
